@@ -2,7 +2,7 @@
 
 from telebot import TeleBot, types
 
-bot = TeleBot(token='5245688044:AAFQwFJXHn9vRr42xd46CW-lpsCOV4TO3Nw', parse_mode='html')
+bot = TeleBot(token='Вставьте_свой_токен', parse_mode='html')
 
 DEFINITOINS = {
     'баг': 'недостаток компонента или системы, который может привести к отказу определенной функциональности',
